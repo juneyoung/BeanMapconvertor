@@ -1,7 +1,7 @@
 # BeanMapConvertor
 Convert Bean class to Map&lt;String, Object> types
 
-###  Writen by Juneyoung Oh / 04.NOV.2015
+#####  Writen by Juneyoung Oh / 04.NOV.2015
 
 This mini-project provides a convenient method, which convert a Bean to a `Map<String, Object`>.<br>
 After converting, Map has fieldName as key and value for value.<br>
