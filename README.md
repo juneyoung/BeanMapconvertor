@@ -9,7 +9,8 @@ After converting, Map has fieldName as key and value for value.<br>
 The convertor class is designed with singletone. You can get a instance like follow.<br>
 ```java
 Convertor convertor = Convertor.getInstance();
-```<br>
+```
+<br>
 
 It has a method named `convert2Map` with a parameter `Object`.<br>
 This method will search `get` method from the instance and invoke that.<br>
