@@ -22,4 +22,8 @@ public class ABean {
 	public void setAddr(String addr) {
 		this.addr = addr;
 	}
+	@Override
+	public String toString() {
+		return "ABean [id=" + id + ", name=" + name + ", addr=" + addr + "]";
+	}
 }
