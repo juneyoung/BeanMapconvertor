@@ -9,7 +9,6 @@ The convertor class is designed with singletone. You can get a instance like fol
 ```java
 Convertor convertor = Convertor.getInstance();
 ```
-<br>
 
 It has a method named `convert2Map` with a parameter `Object`.<br>
 This method will search `get` method from the instance and invoke that.<br>
