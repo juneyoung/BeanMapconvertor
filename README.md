@@ -16,7 +16,7 @@ This method will search `get` method from the instance and invoke that.<br><br>
 
 Sample code for first Commit.<br>
 
-<code>
+```java
   public static void main(String[] args)  throws Exception {
 		Convertor convertor = Convertor.getInstance();
 		ABean aBean = new ABean();
@@ -26,7 +26,7 @@ Sample code for first Commit.<br>
 		Map<String, Object> aMap = convertor.convert2Map(aBean);
 		System.out.println(aMap);
 	}
-</code>
+```
 
 
 ##### Version control.
