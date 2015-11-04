@@ -35,7 +35,7 @@ Sample code for first Commit.<br>
 <ul>
 </div>
 ##### Language
-<di>
+<div>
 <ul>
   <li><a href='../../blob/master/README_KR.md'>한국어(KOR)</br></li>
 <ul>
