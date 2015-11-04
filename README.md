@@ -1,4 +1,4 @@
-# BeanMapconvertor
+# BeanMapConvertor
 Convert Bean class to Map&lt;String, Object> types
 
 ###  Writen by Juneyoung Oh / 04.NOV.2015
