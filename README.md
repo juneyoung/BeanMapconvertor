@@ -4,15 +4,15 @@ Convert Bean class to Map&lt;String, Object> types
 ###  Writen by Juneyoung Oh / 04.NOV.2015
 
 This mini-project provides a convenient method, which convert a Bean to a `Map<String, Object`>.<br>
-After converting, Map has fieldName as key and value for value.
+After converting, Map has fieldName as key and value for value.<br>
 
-The convertor class is designed with singletone. So you can get a instance by following way.
-<code>
+The convertor class is designed with singletone. You can get a instance like follow.<br>
+```java
 Convertor convertor = Convertor.getInstance();
-</code><br>
+```<br>
 
 It has a method named `convert2Map` with a parameter `Object`.<br>
-This method will search `get` method from the instance and invoke that.<br><br>
+This method will search `get` method from the instance and invoke that.<br>
 
 Sample code for first Commit.<br>
 
