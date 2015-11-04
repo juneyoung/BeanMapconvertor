@@ -33,10 +33,10 @@ Sample code for first Commit.<br>
 <ul>
   <li>2015 11 04 - first commit</li>
 <ul>
-</di>
+</div>
 ##### Language
 <di>
 <ul>
-  <li><a href='../../BeanMapconvertor/blob/master/README_KR.md'>한국어(KOR)</br></li>
+  <li><a href='../../blob/master/README_KR.md'>한국어(KOR)</br></li>
 <ul>
 </div>
